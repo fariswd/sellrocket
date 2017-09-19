@@ -1,0 +1,11 @@
+controllers=
+all input
+
+models=
+db connection
+
+server=
+initialize, pake library apa aja, mongoose conect
+
+library npm=
+express, body parser, lodash
