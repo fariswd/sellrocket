@@ -9,3 +9,8 @@ initialize, pake library apa aja, mongoose conect
 
 library npm=
 express, body parser, lodash
+
+tools=
+-insomnia = http client
+-mlab = mongodb free 500mb
+-robomongo = cek db mongo online
